@@ -1,7 +1,7 @@
 {
     "swagger": "2.0",
     "info": {
-        "description": "API documentation for the WaveSuite Admin.",
+        "description": "API Documentations for the WaveSuite Admin.",
         "version": "1.0.0",
         "title": "WaveSuite Admin API",
         "license": {}
